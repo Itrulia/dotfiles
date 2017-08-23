@@ -22,3 +22,9 @@ source $ZSH/oh-my-zsh.sh
 # ssh
 export SSH_KEY_PATH="~/.ssh/rsa_id"
 alias devvm='ssh tech@devvm-kme.dev'
+
+
+# git
+alias  league-widget="cd ~/Documents/play-league-widget"
+alias  ng-league="cd ~/Documents/ngLeague"
+alias  state="cd ~/Documents/play-state"
