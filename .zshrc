@@ -28,3 +28,6 @@ alias devvm='ssh tech@devvm-kme.dev'
 alias  league-widget="cd ~/Documents/play-league-widget"
 alias  ng-league="cd ~/Documents/ngLeague"
 alias  state="cd ~/Documents/play-state"
+
+export VISUAL=vim
+export EDITOR="$VISUAL"
