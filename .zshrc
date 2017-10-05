@@ -22,6 +22,7 @@ source $ZSH/oh-my-zsh.sh
 # ssh
 export SSH_KEY_PATH="~/.ssh/rsa_id"
 alias devvm='ssh tech@devvm-kme.dev'
+alias devvmsshfs='sshfs tech@devvm-kme.dev:/home/tech/sources/ ~/devvm'
 
 
 # git
